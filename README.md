@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tykr0001)](https://solved.ac/tykr0001)
+
 
 <!--
 **tykr0001/tykr0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
