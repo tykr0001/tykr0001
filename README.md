@@ -1,5 +1,7 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tykr0001)](https://solved.ac/tykr0001)
 
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
+
 [![CodeForces Profile](https://cf.leed.at?id=tykr0001)](https://codeforces.com/profile/tykr0001)
 
 
