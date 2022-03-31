@@ -20,3 +20,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```math
+e^{i\pi} + 1 = 0
+```
+
+$`a^2 + b^2 = c^2`$
