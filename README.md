@@ -5,8 +5,6 @@
 [![CodeForces Profile](https://cf.leed.at?id=tykr0001)](https://codeforces.com/profile/tykr0001)
 
 
-i'm <!-- $tykr0001$ --> <img style="transform: translateY(0.1em); background: white;" src="https://render.githubusercontent.com/render/math?math=tykr0001">!
-
 
 <!--
 **tykr0001/tykr0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
