@@ -5,6 +5,10 @@
 [![CodeForces Profile](https://cf.leed.at?id=tykr0001)](https://codeforces.com/profile/tykr0001)
 
 
+### PNUECS
+
+- 🌱 I’m currently learning the computer algorithm
+- 📫 How to reach me: tykr0001@gmail.com
 
 <!--
 **tykr0001/tykr0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
