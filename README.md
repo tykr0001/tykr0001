@@ -7,8 +7,8 @@
 
 ### PNUECS
 
-- 🌱 I’m currently learning the computer algorithm
-- 📫 How to reach me: tykr0001@gmail.com
+- 🌱 I’m currently learning the computer algorithm, digital twin
+- 📫 How to reach me: tykr0001@pusan.ac.kr
 
 <!--
 **tykr0001/tykr0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
