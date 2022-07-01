@@ -7,7 +7,7 @@
 
 ### PNUECS
 
-- 🌱 I’m currently learning the computer algorithm, digital twin
+- 🌱 I’m currently learning the computer algorithm, computer vision, digital twin
 - 📫 How to reach me: tykr0001@pusan.ac.kr
 
 <!--
