@@ -5,7 +5,7 @@
 [![CodeForces Profile](https://cf.leed.at?id=tykr0001)](https://codeforces.com/profile/tykr0001)
 
 
-### PNUECS
+### Computer Science Engineering of Pusan National University
 
 - 🌱 I’m currently learning the computer algorithm, computer vision, digital twin
 - 📫 How to reach me: tykr0001@pusan.ac.kr
