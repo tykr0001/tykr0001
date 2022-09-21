@@ -10,6 +10,10 @@
 - 🌱 I’m currently learning the computer algorithm, computer vision, digital twin
 - 📫 How to reach me: tykr0001@pusan.ac.kr
 
+### Career
+- 2022 전국 대학생 프로그래밍 대회 동아리 연합 여름 대회(UCPC) 본선 진출 & 특별상 수상
+- 2022 부산대학교 프로그래밍 대회 CodeRace 출제 및 검수
+
 <!--
 **tykr0001/tykr0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
