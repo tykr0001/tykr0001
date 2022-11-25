@@ -13,6 +13,7 @@
 ### Career
 - 2022 전국 대학생 프로그래밍 대회 동아리 연합 여름 대회(UCPC) 본선 진출 & 특별상 수상
 - 2022 부산대학교 프로그래밍 대회 CodeRace 출제 및 검수
+- 2022 부산대학교 정컴 TechWeek-프로그래밍 경진대회 금상 수상
 
 <!--
 **tykr0001/tykr0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
