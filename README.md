@@ -7,7 +7,8 @@
 
 ### Computer Science Engineering of Pusan National University
 
-- 🌱 I’m currently learning the computer algorithm, computer vision, digital twin
+- 🌱 I’m currently learning the digital twin, game engine, computer algorithm, computer vision.
+- 🔭 I'm studying for a master’s degree at Pusan National University.
 - 📫 How to reach me: tykr0001@pusan.ac.kr
 
 ### Career
