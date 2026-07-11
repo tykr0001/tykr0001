@@ -16,6 +16,7 @@
 - 2022-23 부산대학교 프로그래밍 대회 CodeRace 출제 및 검수
 - 2022 부산대학교 정컴 TechWeek-프로그래밍 경진대회 금상(1등상) 수상
 - KJCCS2024 Best Student Paper Award 수상
+- 2025 Master’s degree at Pusan National University.
 
 <!--
 **tykr0001/tykr0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
