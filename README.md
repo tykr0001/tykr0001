@@ -4,13 +4,13 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=tykr0001)](https://codeforces.com/profile/tykr0001)
 
-
+<!--
 ### Computer Science Engineering of Pusan National University
 
 - 🌱 I’m currently learning the digital twin, game engine, computer algorithm, computer vision.
 - 🔭 I'm studying for a master’s degree at Pusan National University.
 - 📫 How to reach me: tykr0001@pusan.ac.kr
-
+-->
 ### Career
 - 2022 전국 대학생 프로그래밍 대회 동아리 연합 여름 대회(UCPC) 본선 진출 & 특별상 수상
 - 2022-23 부산대학교 프로그래밍 대회 CodeRace 출제 및 검수
